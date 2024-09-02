@@ -1,0 +1,2 @@
+# NEWS_RESEARCH_AND_ANALYSIS_USING_LANGCHAIN_and_OpenAI_EMBEDDING
+ This project simplifies news research by using AI tools like OpenAI’s embeddings, FAISS for fast information retrieval, and LangChain for processing articles. These technologies work together to quickly find and analyze information, provide accurate answers, and show the sources, making it easy for users to explore and understand news content.
